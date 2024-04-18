@@ -1,3 +1,4 @@
+#Not used in the code, just for practice
 from flask import Flask
 app = Flask(__name__)
 
